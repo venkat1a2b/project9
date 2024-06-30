@@ -1,0 +1,30 @@
+.headin
+{
+    width: 100%;
+    text-align: left;
+}
+.headin h1 
+{
+    display: inline;
+}
+.headin button
+{
+    float: right;
+    border-radius: 20px;
+}
+
+#star ,#stat
+{
+    border-radius: 50px;
+    font-size: 25px;
+}
+.footer
+{
+    background-color: beige;
+    color: rgb(4, 141, 95);
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+    width: 100%;
+}
